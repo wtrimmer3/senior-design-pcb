@@ -36,7 +36,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 3 7
 Title ""
 Date ""
 Rev ""
@@ -46,4 +46,60 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Sheet
+S 2700 1300 1000 1200
+U 5C6CB747
+F0 "inputs 0-15" 60
+F1 "inpust0-15.sch" 60
+$EndSheet
+$Sheet
+S 4100 2450 1000 1200
+U 5C6CB74E
+F0 "inputs 16-31" 60
+F1 "inputs16-31.sch" 60
+$EndSheet
+$Sheet
+S 4100 4200 1000 1200
+U 5C6CB753
+F0 "inputs 32-47" 60
+F1 "inputs32-47.sch" 60
+$EndSheet
+$Sheet
+S 4100 5950 1000 1200
+U 5C6CB756
+F0 "inputs 48-63" 60
+F1 "inputs48-63.sch" 60
+$EndSheet
+Text HLabel 1650 1100 0    60   Input ~ 0
+in0_v
+Text HLabel 1650 1200 0    60   Input ~ 0
+in1_v
+Text HLabel 1650 1300 0    60   Input ~ 0
+in2_v
+Text HLabel 1650 1400 0    60   Input ~ 0
+in3_v
+Text HLabel 1650 1500 0    60   Input ~ 0
+in4_v
+Text HLabel 1650 1600 0    60   Input ~ 0
+in5_v
+Text HLabel 1650 1700 0    60   Input ~ 0
+in6_v
+Text HLabel 1650 1800 0    60   Input ~ 0
+in7_v
+Text HLabel 1650 1900 0    60   Input ~ 0
+in8_v
+Text HLabel 1650 2000 0    60   Input ~ 0
+in9_v
+Text HLabel 1650 2100 0    60   Input ~ 0
+in10_v
+Text HLabel 1650 2200 0    60   Input ~ 0
+in11_v
+Text HLabel 1650 2300 0    60   Input ~ 0
+in12_v
+Text HLabel 1650 2400 0    60   Input ~ 0
+in13_v
+Text HLabel 1650 2500 0    60   Input ~ 0
+in14_v
+Text HLabel 1650 2600 0    60   Input ~ 0
+in15_v
 $EndSCHEMATC
