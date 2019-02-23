@@ -61,23 +61,23 @@ in37_v
 Text HLabel 2000 3000 0    60   Input ~ 0
 in38_v
 Text HLabel 2000 3300 0    60   Input ~ 0
-in7_v
+in39_v
 Text HLabel 2000 3600 0    60   Input ~ 0
-in8_v
+in40_v
 Text HLabel 2000 3900 0    60   Input ~ 0
-in9_v
+in41_v
 Text HLabel 2000 4200 0    60   Input ~ 0
-in10_v
+in42_v
 Text HLabel 2000 4500 0    60   Input ~ 0
-in11_v
+in43_v
 Text HLabel 2000 4800 0    60   Input ~ 0
-in12_v
+in44_v
 Text HLabel 2000 5100 0    60   Input ~ 0
-in13_v
+in45_v
 Text HLabel 2000 5400 0    60   Input ~ 0
-in14_v
+in46_v
 Text HLabel 2000 5700 0    60   Input ~ 0
-in15_v
+in47_v
 Text HLabel 2850 6000 3    60   Input ~ 0
 out0_i
 Text HLabel 3600 6000 3    60   Input ~ 0
