@@ -128,4 +128,86 @@ Text HLabel 1650 2500 0    60   Input ~ 0
 in14_v
 Text HLabel 1650 2600 0    60   Input ~ 0
 in15_v
+Text HLabel 1650 3050 0    60   Input ~ 0
+in16_v
+Text HLabel 1650 3150 0    60   Input ~ 0
+in17_v
+Text HLabel 1650 3250 0    60   Input ~ 0
+in18_v
+Text HLabel 1650 3350 0    60   Input ~ 0
+in19_v
+Text HLabel 1650 3450 0    60   Input ~ 0
+in20_v
+Text HLabel 1650 3550 0    60   Input ~ 0
+in21_v
+Text HLabel 1650 3650 0    60   Input ~ 0
+in22_v
+Text HLabel 1650 3750 0    60   Input ~ 0
+in23_v
+Text HLabel 1650 3850 0    60   Input ~ 0
+in24_v
+Text HLabel 1650 3950 0    60   Input ~ 0
+in25_v
+Text HLabel 1650 4050 0    60   Input ~ 0
+in26_v
+Text HLabel 1650 4150 0    60   Input ~ 0
+in27_v
+Text HLabel 1650 4250 0    60   Input ~ 0
+in28_v
+Text HLabel 1650 4350 0    60   Input ~ 0
+in29_v
+Text HLabel 1650 4450 0    60   Input ~ 0
+in30_v
+Text HLabel 1650 4550 0    60   Input ~ 0
+in31_v
+Text HLabel 2000 3050 2    60   Input ~ 0
+in16_v
+Text HLabel 2000 3150 2    60   Input ~ 0
+in17_v
+Text HLabel 2000 3250 2    60   Input ~ 0
+in18_v
+Text HLabel 2000 3350 2    60   Input ~ 0
+in19_v
+Text HLabel 2000 3450 2    60   Input ~ 0
+in20_v
+Text HLabel 2000 3550 2    60   Input ~ 0
+in21_v
+Text HLabel 2000 3650 2    60   Input ~ 0
+in22_v
+Text HLabel 2000 3750 2    60   Input ~ 0
+in23_v
+Text HLabel 2000 3850 2    60   Input ~ 0
+in24_v
+Text HLabel 2000 3950 2    60   Input ~ 0
+in25_v
+Text HLabel 2000 4050 2    60   Input ~ 0
+in26_v
+Text HLabel 2000 4150 2    60   Input ~ 0
+in27_v
+Text HLabel 2000 4250 2    60   Input ~ 0
+in28_v
+Text HLabel 2000 4350 2    60   Input ~ 0
+in29_v
+Text HLabel 2000 4450 2    60   Input ~ 0
+in30_v
+Text HLabel 2000 4550 2    60   Input ~ 0
+in31_v
+Text HLabel 2950 3300 0    60   Output ~ 0
+out1_i
+Text HLabel 2950 3400 0    60   Output ~ 0
+out2_i
+Text HLabel 2950 3500 0    60   Output ~ 0
+out3_i
+Text HLabel 2950 3600 0    60   Output ~ 0
+out4_i
+Text HLabel 2950 3700 0    60   Output ~ 0
+out5_i
+Text HLabel 2950 3800 0    60   Output ~ 0
+out6_i
+Text HLabel 2950 3900 0    60   Output ~ 0
+out7_i
+Text HLabel 2950 4000 0    60   Output ~ 0
+out8_i
+Text HLabel 2950 4100 0    60   Output ~ 0
+out9_i
 $EndSCHEMATC

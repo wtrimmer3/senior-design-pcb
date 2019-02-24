@@ -47,37 +47,37 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text HLabel 1900 1050 0    60   Input ~ 0
-in0_v
+in48_v
 Text HLabel 1900 1350 0    60   Input ~ 0
-in1_v
+in49_v
 Text HLabel 1900 1650 0    60   Input ~ 0
-in2_v
+in50_v
 Text HLabel 1900 1950 0    60   Input ~ 0
-in3_v
+in51_v
 Text HLabel 1900 2250 0    60   Input ~ 0
-in4_v
+in52_v
 Text HLabel 1900 2550 0    60   Input ~ 0
-in5_v
+in53_v
 Text HLabel 1900 2850 0    60   Input ~ 0
-in6_v
+in54_v
 Text HLabel 1900 3150 0    60   Input ~ 0
-in7_v
+in55_v
 Text HLabel 1900 3450 0    60   Input ~ 0
-in8_v
+in56_v
 Text HLabel 1900 3750 0    60   Input ~ 0
-in9_v
+in57_v
 Text HLabel 1900 4050 0    60   Input ~ 0
-in10_v
+in58_v
 Text HLabel 1900 4350 0    60   Input ~ 0
-in11_v
+in59_v
 Text HLabel 1900 4650 0    60   Input ~ 0
-in12_v
+in60_v
 Text HLabel 1900 4950 0    60   Input ~ 0
-in13_v
+in61_v
 Text HLabel 1900 5250 0    60   Input ~ 0
-in14_v
+in62_v
 Text HLabel 1900 5550 0    60   Input ~ 0
-in15_v
+in63_v
 Text HLabel 2750 5850 3    60   Input ~ 0
 out0_i
 Text HLabel 3500 5850 3    60   Input ~ 0
