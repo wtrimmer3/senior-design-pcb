@@ -85,13 +85,13 @@ F0 "inputs 16-31" 60
 F1 "inputs16-31.sch" 60
 $EndSheet
 $Sheet
-S 4950 1050 950  1600
+S 5850 1050 950  1600
 U 5C6CB753
 F0 "inputs 32-47" 60
 F1 "inputs32-47.sch" 60
 $EndSheet
 $Sheet
-S 4950 3000 1000 1600
+S 5850 3000 1000 1600
 U 5C6CB756
 F0 "inputs 48-63" 60
 F1 "inputs48-63.sch" 60
@@ -212,133 +212,133 @@ Text HLabel 3150 4200 0    60   Output ~ 0
 out9_i
 Text HLabel 3150 3300 0    60   Output ~ 0
 out0_i
-Text HLabel 4450 1100 0    60   Input ~ 0
+Text HLabel 5350 1100 0    60   Input ~ 0
 in32_v
-Text HLabel 4450 1200 0    60   Input ~ 0
+Text HLabel 5350 1200 0    60   Input ~ 0
 in33_v
-Text HLabel 4450 1300 0    60   Input ~ 0
+Text HLabel 5350 1300 0    60   Input ~ 0
 in34_v
-Text HLabel 4450 1400 0    60   Input ~ 0
+Text HLabel 5350 1400 0    60   Input ~ 0
 in35_v
-Text HLabel 4450 1500 0    60   Input ~ 0
+Text HLabel 5350 1500 0    60   Input ~ 0
 in36_v
-Text HLabel 4450 1600 0    60   Input ~ 0
+Text HLabel 5350 1600 0    60   Input ~ 0
 in37_v
-Text HLabel 4450 1700 0    60   Input ~ 0
+Text HLabel 5350 1700 0    60   Input ~ 0
 in38_v
-Text HLabel 4450 1800 0    60   Input ~ 0
+Text HLabel 5350 1800 0    60   Input ~ 0
 in39_v
-Text HLabel 4450 1900 0    60   Input ~ 0
+Text HLabel 5350 1900 0    60   Input ~ 0
 in40_v
-Text HLabel 4450 2000 0    60   Input ~ 0
+Text HLabel 5350 2000 0    60   Input ~ 0
 in41_v
-Text HLabel 4450 2100 0    60   Input ~ 0
+Text HLabel 5350 2100 0    60   Input ~ 0
 in42_v
-Text HLabel 4450 2200 0    60   Input ~ 0
+Text HLabel 5350 2200 0    60   Input ~ 0
 in43_v
-Text HLabel 4450 2300 0    60   Input ~ 0
+Text HLabel 5350 2300 0    60   Input ~ 0
 in44_v
-Text HLabel 4450 2400 0    60   Input ~ 0
+Text HLabel 5350 2400 0    60   Input ~ 0
 in45_v
-Text HLabel 4450 2500 0    60   Input ~ 0
+Text HLabel 5350 2500 0    60   Input ~ 0
 in46_v
-Text HLabel 4450 2600 0    60   Input ~ 0
+Text HLabel 5350 2600 0    60   Input ~ 0
 in47_v
-Text HLabel 4450 3150 0    60   Input ~ 0
+Text HLabel 5350 3150 0    60   Input ~ 0
 in49_v
-Text HLabel 4450 3050 0    60   Input ~ 0
+Text HLabel 5350 3050 0    60   Input ~ 0
 in48_v
-Text HLabel 4450 3250 0    60   Input ~ 0
+Text HLabel 5350 3250 0    60   Input ~ 0
 in50_v
-Text HLabel 4450 3350 0    60   Input ~ 0
+Text HLabel 5350 3350 0    60   Input ~ 0
 in51_v
-Text HLabel 4450 3450 0    60   Input ~ 0
+Text HLabel 5350 3450 0    60   Input ~ 0
 in52_v
-Text HLabel 4450 3550 0    60   Input ~ 0
+Text HLabel 5350 3550 0    60   Input ~ 0
 in53_v
-Text HLabel 4450 3650 0    60   Input ~ 0
+Text HLabel 5350 3650 0    60   Input ~ 0
 in54_v
-Text HLabel 4450 3750 0    60   Input ~ 0
+Text HLabel 5350 3750 0    60   Input ~ 0
 in55_v
-Text HLabel 4450 3850 0    60   Input ~ 0
+Text HLabel 5350 3850 0    60   Input ~ 0
 in56_v
-Text HLabel 4450 3950 0    60   Input ~ 0
+Text HLabel 5350 3950 0    60   Input ~ 0
 in57_v
-Text HLabel 4450 4050 0    60   Input ~ 0
+Text HLabel 5350 4050 0    60   Input ~ 0
 in58_v
-Text HLabel 4450 4150 0    60   Input ~ 0
+Text HLabel 5350 4150 0    60   Input ~ 0
 in59_v
-Text HLabel 4450 4250 0    60   Input ~ 0
+Text HLabel 5350 4250 0    60   Input ~ 0
 in60_v
-Text HLabel 4450 4350 0    60   Input ~ 0
+Text HLabel 5350 4350 0    60   Input ~ 0
 in61_v
-Text HLabel 4450 4450 0    60   Input ~ 0
+Text HLabel 5350 4450 0    60   Input ~ 0
 in62_v
-Text HLabel 4450 4550 0    60   Input ~ 0
+Text HLabel 5350 4550 0    60   Input ~ 0
 in63_v
-Text HLabel 4950 1100 2    60   Input ~ 0
+Text HLabel 5850 1100 2    60   Input ~ 0
 in32_v
-Text HLabel 4950 1200 2    60   Input ~ 0
+Text HLabel 5850 1200 2    60   Input ~ 0
 in33_v
-Text HLabel 4950 1300 2    60   Input ~ 0
+Text HLabel 5850 1300 2    60   Input ~ 0
 in34_v
-Text HLabel 4950 1400 2    60   Input ~ 0
+Text HLabel 5850 1400 2    60   Input ~ 0
 in35_v
-Text HLabel 4950 1500 2    60   Input ~ 0
+Text HLabel 5850 1500 2    60   Input ~ 0
 in36_v
-Text HLabel 4950 1600 2    60   Input ~ 0
+Text HLabel 5850 1600 2    60   Input ~ 0
 in37_v
-Text HLabel 4950 1700 2    60   Input ~ 0
+Text HLabel 5850 1700 2    60   Input ~ 0
 in38_v
-Text HLabel 4950 1800 2    60   Input ~ 0
+Text HLabel 5850 1800 2    60   Input ~ 0
 in39_v
-Text HLabel 4950 1900 2    60   Input ~ 0
+Text HLabel 5850 1900 2    60   Input ~ 0
 in40_v
-Text HLabel 4950 2000 2    60   Input ~ 0
+Text HLabel 5850 2000 2    60   Input ~ 0
 in41_v
-Text HLabel 4950 2100 2    60   Input ~ 0
+Text HLabel 5850 2100 2    60   Input ~ 0
 in42_v
-Text HLabel 4950 2200 2    60   Input ~ 0
+Text HLabel 5850 2200 2    60   Input ~ 0
 in43_v
-Text HLabel 4950 2300 2    60   Input ~ 0
+Text HLabel 5850 2300 2    60   Input ~ 0
 in44_v
-Text HLabel 4950 2400 2    60   Input ~ 0
+Text HLabel 5850 2400 2    60   Input ~ 0
 in45_v
-Text HLabel 4950 2500 2    60   Input ~ 0
+Text HLabel 5850 2500 2    60   Input ~ 0
 in46_v
-Text HLabel 4950 2600 2    60   Input ~ 0
+Text HLabel 5850 2600 2    60   Input ~ 0
 in47_v
-Text HLabel 4950 3050 2    60   Input ~ 0
+Text HLabel 5850 3050 2    60   Input ~ 0
 in48_v
-Text HLabel 4950 3150 2    60   Input ~ 0
+Text HLabel 5850 3150 2    60   Input ~ 0
 in49_v
-Text HLabel 4950 3250 2    60   Input ~ 0
+Text HLabel 5850 3250 2    60   Input ~ 0
 in50_v
-Text HLabel 4950 3350 2    60   Input ~ 0
+Text HLabel 5850 3350 2    60   Input ~ 0
 in51_v
-Text HLabel 4950 3450 2    60   Input ~ 0
+Text HLabel 5850 3450 2    60   Input ~ 0
 in52_v
-Text HLabel 4950 3550 2    60   Input ~ 0
+Text HLabel 5850 3550 2    60   Input ~ 0
 in53_v
-Text HLabel 4950 3650 2    60   Input ~ 0
+Text HLabel 5850 3650 2    60   Input ~ 0
 in54_v
-Text HLabel 4950 3750 2    60   Input ~ 0
+Text HLabel 5850 3750 2    60   Input ~ 0
 in55_v
-Text HLabel 4950 3850 2    60   Input ~ 0
+Text HLabel 5850 3850 2    60   Input ~ 0
 in56_v
-Text HLabel 4950 3950 2    60   Input ~ 0
+Text HLabel 5850 3950 2    60   Input ~ 0
 in57_v
-Text HLabel 4950 4050 2    60   Input ~ 0
+Text HLabel 5850 4050 2    60   Input ~ 0
 in58_v
-Text HLabel 4950 4150 2    60   Input ~ 0
+Text HLabel 5850 4150 2    60   Input ~ 0
 in59_v
-Text HLabel 4950 4250 2    60   Input ~ 0
+Text HLabel 5850 4250 2    60   Input ~ 0
 in60_v
-Text HLabel 4950 4350 2    60   Input ~ 0
+Text HLabel 5850 4350 2    60   Input ~ 0
 in61_v
-Text HLabel 4950 4450 2    60   Input ~ 0
+Text HLabel 5850 4450 2    60   Input ~ 0
 in62_v
-Text HLabel 4950 4550 2    60   Input ~ 0
+Text HLabel 5850 4550 2    60   Input ~ 0
 in63_v
 Wire Wire Line
 	1650 1100 2200 1100
@@ -405,67 +405,107 @@ Wire Wire Line
 Wire Wire Line
 	1650 4550 2200 4550
 Wire Wire Line
-	4450 1100 4950 1100
+	5350 1100 5850 1100
 Wire Wire Line
-	4450 1200 4950 1200
+	5350 1200 5850 1200
 Wire Wire Line
-	4450 1300 4950 1300
+	5350 1300 5850 1300
 Wire Wire Line
-	4450 1400 4950 1400
+	5350 1400 5850 1400
 Wire Wire Line
-	4450 1500 4950 1500
+	5350 1500 5850 1500
 Wire Wire Line
-	4450 1600 4950 1600
+	5350 1600 5850 1600
 Wire Wire Line
-	4450 1700 4950 1700
+	5350 1700 5850 1700
 Wire Wire Line
-	4450 1800 4950 1800
+	5350 1800 5850 1800
 Wire Wire Line
-	4450 1900 4950 1900
+	5350 1900 5850 1900
 Wire Wire Line
-	4450 2000 4950 2000
+	5350 2000 5850 2000
 Wire Wire Line
-	4450 2100 4950 2100
+	5350 2100 5850 2100
 Wire Wire Line
-	4450 2200 4950 2200
+	5350 2200 5850 2200
 Wire Wire Line
-	4450 2300 4950 2300
+	5350 2300 5850 2300
 Wire Wire Line
-	4450 2400 4950 2400
+	5350 2400 5850 2400
 Wire Wire Line
-	4450 2500 4950 2500
+	5350 2500 5850 2500
 Wire Wire Line
-	4450 2600 4950 2600
+	5350 2600 5850 2600
 Wire Wire Line
-	4450 3050 4950 3050
+	5350 3050 5850 3050
 Wire Wire Line
-	4450 3150 4950 3150
+	5350 3150 5850 3150
 Wire Wire Line
-	4450 3250 4950 3250
+	5350 3250 5850 3250
 Wire Wire Line
-	4450 3350 4950 3350
+	5350 3350 5850 3350
 Wire Wire Line
-	4450 3450 4950 3450
+	5350 3450 5850 3450
 Wire Wire Line
-	4450 3550 4950 3550
+	5350 3550 5850 3550
 Wire Wire Line
-	4450 3650 4950 3650
+	5350 3650 5850 3650
 Wire Wire Line
-	4450 3750 4950 3750
+	5350 3750 5850 3750
 Wire Wire Line
-	4450 3850 4950 3850
+	5350 3850 5850 3850
 Wire Wire Line
-	4450 3950 4950 3950
+	5350 3950 5850 3950
 Wire Wire Line
-	4450 4050 4950 4050
+	5350 4050 5850 4050
 Wire Wire Line
-	4450 4150 4950 4150
+	5350 4150 5850 4150
 Wire Wire Line
-	4450 4250 4950 4250
+	5350 4250 5850 4250
 Wire Wire Line
-	4450 4350 4950 4350
+	5350 4350 5850 4350
 Wire Wire Line
-	4450 4450 4950 4450
+	5350 4450 5850 4450
 Wire Wire Line
-	4450 4550 4950 4550
+	5350 4550 5850 4550
+Text HLabel 6850 3300 0    60   Output ~ 0
+out0_i
+Text HLabel 6850 3400 0    60   Output ~ 0
+out1_i
+Text HLabel 6850 3500 0    60   Output ~ 0
+out2_i
+Text HLabel 6850 3600 0    60   Output ~ 0
+out3_i
+Text HLabel 6850 3700 0    60   Output ~ 0
+out4_i
+Text HLabel 6850 3800 0    60   Output ~ 0
+out5_i
+Text HLabel 6850 3900 0    60   Output ~ 0
+out6_i
+Text HLabel 6850 4000 0    60   Output ~ 0
+out7_i
+Text HLabel 6850 4100 0    60   Output ~ 0
+out8_i
+Text HLabel 6850 4200 0    60   Output ~ 0
+out9_i
+Text HLabel 6800 1300 0    60   Output ~ 0
+out0_i
+Text HLabel 6800 1400 0    60   Output ~ 0
+out1_i
+Text HLabel 6800 1500 0    60   Output ~ 0
+out2_i
+Text HLabel 6800 1600 0    60   Output ~ 0
+out3_i
+Text HLabel 6800 1700 0    60   Output ~ 0
+out4_i
+Text HLabel 6800 1800 0    60   Output ~ 0
+out5_i
+Text HLabel 6800 1900 0    60   Output ~ 0
+out6_i
+Text HLabel 6800 2000 0    60   Output ~ 0
+out7_i
+Text HLabel 6800 2100 0    60   Output ~ 0
+out8_i
+Text HLabel 6800 2200 0    60   Output ~ 0
+out9_i
 $EndSCHEMATC
