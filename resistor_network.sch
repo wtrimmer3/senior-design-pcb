@@ -79,19 +79,19 @@ F26 "out8_i" I R 3150 2100 60
 F27 "out9_i" I R 3150 2200 60 
 $EndSheet
 $Sheet
-S 2000 3000 950  1600
+S 2200 3000 950  1600
 U 5C6CB74E
 F0 "inputs 16-31" 60
 F1 "inputs16-31.sch" 60
 $EndSheet
 $Sheet
-S 4100 4200 1000 1200
+S 4950 1050 950  1600
 U 5C6CB753
 F0 "inputs 32-47" 60
 F1 "inputs32-47.sch" 60
 $EndSheet
 $Sheet
-S 4100 5950 1000 1200
+S 4950 3000 1000 1600
 U 5C6CB756
 F0 "inputs 48-63" 60
 F1 "inputs48-63.sch" 60
@@ -160,54 +160,184 @@ Text HLabel 1650 4450 0    60   Input ~ 0
 in30_v
 Text HLabel 1650 4550 0    60   Input ~ 0
 in31_v
-Text HLabel 2000 3050 2    60   Input ~ 0
+Text HLabel 2200 3050 2    60   Input ~ 0
 in16_v
-Text HLabel 2000 3150 2    60   Input ~ 0
+Text HLabel 2200 3150 2    60   Input ~ 0
 in17_v
-Text HLabel 2000 3250 2    60   Input ~ 0
+Text HLabel 2200 3250 2    60   Input ~ 0
 in18_v
-Text HLabel 2000 3350 2    60   Input ~ 0
+Text HLabel 2200 3350 2    60   Input ~ 0
 in19_v
-Text HLabel 2000 3450 2    60   Input ~ 0
+Text HLabel 2200 3450 2    60   Input ~ 0
 in20_v
-Text HLabel 2000 3550 2    60   Input ~ 0
+Text HLabel 2200 3550 2    60   Input ~ 0
 in21_v
-Text HLabel 2000 3650 2    60   Input ~ 0
+Text HLabel 2200 3650 2    60   Input ~ 0
 in22_v
-Text HLabel 2000 3750 2    60   Input ~ 0
+Text HLabel 2200 3750 2    60   Input ~ 0
 in23_v
-Text HLabel 2000 3850 2    60   Input ~ 0
+Text HLabel 2200 3850 2    60   Input ~ 0
 in24_v
-Text HLabel 2000 3950 2    60   Input ~ 0
+Text HLabel 2200 3950 2    60   Input ~ 0
 in25_v
-Text HLabel 2000 4050 2    60   Input ~ 0
+Text HLabel 2200 4050 2    60   Input ~ 0
 in26_v
-Text HLabel 2000 4150 2    60   Input ~ 0
+Text HLabel 2200 4150 2    60   Input ~ 0
 in27_v
-Text HLabel 2000 4250 2    60   Input ~ 0
+Text HLabel 2200 4250 2    60   Input ~ 0
 in28_v
-Text HLabel 2000 4350 2    60   Input ~ 0
+Text HLabel 2200 4350 2    60   Input ~ 0
 in29_v
-Text HLabel 2000 4450 2    60   Input ~ 0
+Text HLabel 2200 4450 2    60   Input ~ 0
 in30_v
-Text HLabel 2000 4550 2    60   Input ~ 0
+Text HLabel 2200 4550 2    60   Input ~ 0
 in31_v
-Text HLabel 2950 3300 0    60   Output ~ 0
+Text HLabel 3150 3400 0    60   Output ~ 0
 out1_i
-Text HLabel 2950 3400 0    60   Output ~ 0
+Text HLabel 3150 3500 0    60   Output ~ 0
 out2_i
-Text HLabel 2950 3500 0    60   Output ~ 0
+Text HLabel 3150 3600 0    60   Output ~ 0
 out3_i
-Text HLabel 2950 3600 0    60   Output ~ 0
+Text HLabel 3150 3700 0    60   Output ~ 0
 out4_i
-Text HLabel 2950 3700 0    60   Output ~ 0
+Text HLabel 3150 3800 0    60   Output ~ 0
 out5_i
-Text HLabel 2950 3800 0    60   Output ~ 0
+Text HLabel 3150 3900 0    60   Output ~ 0
 out6_i
-Text HLabel 2950 3900 0    60   Output ~ 0
+Text HLabel 3150 4000 0    60   Output ~ 0
 out7_i
-Text HLabel 2950 4000 0    60   Output ~ 0
+Text HLabel 3150 4100 0    60   Output ~ 0
 out8_i
-Text HLabel 2950 4100 0    60   Output ~ 0
+Text HLabel 3150 4200 0    60   Output ~ 0
 out9_i
+Text HLabel 3150 3300 0    60   Output ~ 0
+out0_i
+Text HLabel 4450 1100 0    60   Input ~ 0
+in32_v
+Text HLabel 4450 1200 0    60   Input ~ 0
+in33_v
+Text HLabel 4450 1300 0    60   Input ~ 0
+in34_v
+Text HLabel 4450 1400 0    60   Input ~ 0
+in35_v
+Text HLabel 4450 1500 0    60   Input ~ 0
+in36_v
+Text HLabel 4450 1600 0    60   Input ~ 0
+in37_v
+Text HLabel 4450 1700 0    60   Input ~ 0
+in38_v
+Text HLabel 4450 1800 0    60   Input ~ 0
+in39_v
+Text HLabel 4450 1900 0    60   Input ~ 0
+in40_v
+Text HLabel 4450 2000 0    60   Input ~ 0
+in41_v
+Text HLabel 4450 2100 0    60   Input ~ 0
+in42_v
+Text HLabel 4450 2200 0    60   Input ~ 0
+in43_v
+Text HLabel 4450 2300 0    60   Input ~ 0
+in44_v
+Text HLabel 4450 2400 0    60   Input ~ 0
+in45_v
+Text HLabel 4450 2500 0    60   Input ~ 0
+in46_v
+Text HLabel 4450 2600 0    60   Input ~ 0
+in47_v
+Text HLabel 4450 3150 0    60   Input ~ 0
+in49_v
+Text HLabel 4450 3050 0    60   Input ~ 0
+in48_v
+Text HLabel 4450 3250 0    60   Input ~ 0
+in50_v
+Text HLabel 4450 3350 0    60   Input ~ 0
+in51_v
+Text HLabel 4450 3450 0    60   Input ~ 0
+in52_v
+Text HLabel 4450 3550 0    60   Input ~ 0
+in53_v
+Text HLabel 4450 3650 0    60   Input ~ 0
+in54_v
+Text HLabel 4450 3750 0    60   Input ~ 0
+in55_v
+Text HLabel 4450 3850 0    60   Input ~ 0
+in56_v
+Text HLabel 4450 3950 0    60   Input ~ 0
+in57_v
+Text HLabel 4450 4050 0    60   Input ~ 0
+in58_v
+Text HLabel 4450 4150 0    60   Input ~ 0
+in59_v
+Text HLabel 4450 4250 0    60   Input ~ 0
+in60_v
+Text HLabel 4450 4350 0    60   Input ~ 0
+in61_v
+Text HLabel 4450 4450 0    60   Input ~ 0
+in62_v
+Text HLabel 4450 4550 0    60   Input ~ 0
+in63_v
+Text HLabel 4950 1100 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 1200 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 1300 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 1400 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 1500 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 1600 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 1700 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 1800 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 1900 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 2000 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 2100 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 2200 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 2300 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 2400 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 2500 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 2600 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3050 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3150 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3250 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3350 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3450 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3550 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3650 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3750 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3850 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 3950 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 4050 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 4150 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 4250 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 4350 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 4450 2    60   Input ~ 0
+in32_v
+Text HLabel 4950 4550 2    60   Input ~ 0
+in32_v
 $EndSCHEMATC
