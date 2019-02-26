@@ -279,65 +279,193 @@ in63_v
 Text HLabel 4950 1100 2    60   Input ~ 0
 in32_v
 Text HLabel 4950 1200 2    60   Input ~ 0
-in32_v
+in33_v
 Text HLabel 4950 1300 2    60   Input ~ 0
-in32_v
+in34_v
 Text HLabel 4950 1400 2    60   Input ~ 0
-in32_v
+in35_v
 Text HLabel 4950 1500 2    60   Input ~ 0
-in32_v
+in36_v
 Text HLabel 4950 1600 2    60   Input ~ 0
-in32_v
+in37_v
 Text HLabel 4950 1700 2    60   Input ~ 0
-in32_v
+in38_v
 Text HLabel 4950 1800 2    60   Input ~ 0
-in32_v
+in39_v
 Text HLabel 4950 1900 2    60   Input ~ 0
-in32_v
+in40_v
 Text HLabel 4950 2000 2    60   Input ~ 0
-in32_v
+in41_v
 Text HLabel 4950 2100 2    60   Input ~ 0
-in32_v
+in42_v
 Text HLabel 4950 2200 2    60   Input ~ 0
-in32_v
+in43_v
 Text HLabel 4950 2300 2    60   Input ~ 0
-in32_v
+in44_v
 Text HLabel 4950 2400 2    60   Input ~ 0
-in32_v
+in45_v
 Text HLabel 4950 2500 2    60   Input ~ 0
-in32_v
+in46_v
 Text HLabel 4950 2600 2    60   Input ~ 0
-in32_v
+in47_v
 Text HLabel 4950 3050 2    60   Input ~ 0
-in32_v
+in48_v
 Text HLabel 4950 3150 2    60   Input ~ 0
-in32_v
+in49_v
 Text HLabel 4950 3250 2    60   Input ~ 0
-in32_v
+in50_v
 Text HLabel 4950 3350 2    60   Input ~ 0
-in32_v
+in51_v
 Text HLabel 4950 3450 2    60   Input ~ 0
-in32_v
+in52_v
 Text HLabel 4950 3550 2    60   Input ~ 0
-in32_v
+in53_v
 Text HLabel 4950 3650 2    60   Input ~ 0
-in32_v
+in54_v
 Text HLabel 4950 3750 2    60   Input ~ 0
-in32_v
+in55_v
 Text HLabel 4950 3850 2    60   Input ~ 0
-in32_v
+in56_v
 Text HLabel 4950 3950 2    60   Input ~ 0
-in32_v
+in57_v
 Text HLabel 4950 4050 2    60   Input ~ 0
-in32_v
+in58_v
 Text HLabel 4950 4150 2    60   Input ~ 0
-in32_v
+in59_v
 Text HLabel 4950 4250 2    60   Input ~ 0
-in32_v
+in60_v
 Text HLabel 4950 4350 2    60   Input ~ 0
-in32_v
+in61_v
 Text HLabel 4950 4450 2    60   Input ~ 0
-in32_v
+in62_v
 Text HLabel 4950 4550 2    60   Input ~ 0
-in32_v
+in63_v
+Wire Wire Line
+	1650 1100 2200 1100
+Wire Wire Line
+	1650 1200 2200 1200
+Wire Wire Line
+	1650 1300 2200 1300
+Wire Wire Line
+	1650 1400 2200 1400
+Wire Wire Line
+	1650 1500 2200 1500
+Wire Wire Line
+	1650 1600 2200 1600
+Wire Wire Line
+	1650 1700 2200 1700
+Wire Wire Line
+	1650 1800 2200 1800
+Wire Wire Line
+	1650 1900 2200 1900
+Wire Wire Line
+	1650 2000 2200 2000
+Wire Wire Line
+	1650 2100 2200 2100
+Wire Wire Line
+	1650 2200 2200 2200
+Wire Wire Line
+	1650 2300 2200 2300
+Wire Wire Line
+	1650 2400 2200 2400
+Wire Wire Line
+	1650 2500 2200 2500
+Wire Wire Line
+	1650 2600 2200 2600
+Wire Wire Line
+	1650 3050 2200 3050
+Wire Wire Line
+	1650 3150 2200 3150
+Wire Wire Line
+	1650 3250 2200 3250
+Wire Wire Line
+	1650 3350 2200 3350
+Wire Wire Line
+	1650 3450 2200 3450
+Wire Wire Line
+	1650 3550 2200 3550
+Wire Wire Line
+	1650 3650 2200 3650
+Wire Wire Line
+	1650 3750 2200 3750
+Wire Wire Line
+	1650 3850 2200 3850
+Wire Wire Line
+	1650 3950 2200 3950
+Wire Wire Line
+	1650 4050 2200 4050
+Wire Wire Line
+	1650 4150 2200 4150
+Wire Wire Line
+	1650 4250 2200 4250
+Wire Wire Line
+	1650 4350 2200 4350
+Wire Wire Line
+	1650 4450 2200 4450
+Wire Wire Line
+	1650 4550 2200 4550
+Wire Wire Line
+	4450 1100 4950 1100
+Wire Wire Line
+	4450 1200 4950 1200
+Wire Wire Line
+	4450 1300 4950 1300
+Wire Wire Line
+	4450 1400 4950 1400
+Wire Wire Line
+	4450 1500 4950 1500
+Wire Wire Line
+	4450 1600 4950 1600
+Wire Wire Line
+	4450 1700 4950 1700
+Wire Wire Line
+	4450 1800 4950 1800
+Wire Wire Line
+	4450 1900 4950 1900
+Wire Wire Line
+	4450 2000 4950 2000
+Wire Wire Line
+	4450 2100 4950 2100
+Wire Wire Line
+	4450 2200 4950 2200
+Wire Wire Line
+	4450 2300 4950 2300
+Wire Wire Line
+	4450 2400 4950 2400
+Wire Wire Line
+	4450 2500 4950 2500
+Wire Wire Line
+	4450 2600 4950 2600
+Wire Wire Line
+	4450 3050 4950 3050
+Wire Wire Line
+	4450 3150 4950 3150
+Wire Wire Line
+	4450 3250 4950 3250
+Wire Wire Line
+	4450 3350 4950 3350
+Wire Wire Line
+	4450 3450 4950 3450
+Wire Wire Line
+	4450 3550 4950 3550
+Wire Wire Line
+	4450 3650 4950 3650
+Wire Wire Line
+	4450 3750 4950 3750
+Wire Wire Line
+	4450 3850 4950 3850
+Wire Wire Line
+	4450 3950 4950 3950
+Wire Wire Line
+	4450 4050 4950 4050
+Wire Wire Line
+	4450 4150 4950 4150
+Wire Wire Line
+	4450 4250 4950 4250
+Wire Wire Line
+	4450 4350 4950 4350
+Wire Wire Line
+	4450 4450 4950 4450
+Wire Wire Line
+	4450 4550 4950 4550
 $EndSCHEMATC
