@@ -67,34 +67,48 @@ F14 "in12_v" I L 2200 2300 60
 F15 "in13_v" I L 2200 2400 60 
 F16 "in14_v" I L 2200 2500 60 
 F17 "in15_v" I L 2200 2600 60 
-F18 "out0_i" I R 3150 1300 60 
-F19 "out1_i" I R 3150 1400 60 
-F20 "out2_i" I R 3150 1500 60 
-F21 "out3_i" I R 3150 1600 60 
-F22 "out4_i" I R 3150 1700 60 
-F23 "out5_i" I R 3150 1800 60 
-F24 "out6_i" I R 3150 1900 60 
-F25 "out7_i" I R 3150 2000 60 
-F26 "out8_i" I R 3150 2100 60 
-F27 "out9_i" I R 3150 2200 60 
-$EndSheet
-$Sheet
-S 2200 3000 950  1600
-U 5C6CB74E
-F0 "inputs 16-31" 60
-F1 "inputs16-31.sch" 60
+F18 "out0_i" O R 3150 1300 60 
+F19 "out1_i" O R 3150 1400 60 
+F20 "out2_i" O R 3150 1500 60 
+F21 "out3_i" O R 3150 1600 60 
+F22 "out4_i" O R 3150 1700 60 
+F23 "out5_i" O R 3150 1800 60 
+F24 "out6_i" O R 3150 1900 60 
+F25 "out7_i" O R 3150 2000 60 
+F26 "out8_i" O R 3150 2100 60 
+F27 "out9_i" O R 3150 2200 60 
 $EndSheet
 $Sheet
 S 6200 1050 950  1600
 U 5C6CB753
 F0 "inputs 32-47" 60
 F1 "inputs32-47.sch" 60
-$EndSheet
-$Sheet
-S 6200 3000 950  1600
-U 5C6CB756
-F0 "inputs 48-63" 60
-F1 "inputs48-63.sch" 60
+F2 "in32_v" I L 6200 1100 60 
+F3 "in33_v" I L 6200 1200 60 
+F4 "in34_v" I L 6200 1300 60 
+F5 "in35_v" I L 6200 1400 60 
+F6 "in36_v" I L 6200 1500 60 
+F7 "in37_v" I L 6200 1600 60 
+F8 "in38_v" I L 6200 1700 60 
+F9 "in39_v" I L 6200 1800 60 
+F10 "in40_v" I L 6200 1900 60 
+F11 "in41_v" I L 6200 2000 60 
+F12 "in42_v" I L 6200 2100 60 
+F13 "in43_v" I L 6200 2200 60 
+F14 "in44_v" I L 6200 2300 60 
+F15 "in45_v" I L 6200 2400 60 
+F16 "in46_v" I L 6200 2500 60 
+F17 "in47_v" I L 6200 2600 60 
+F18 "out0_i" O R 7150 1300 60 
+F19 "out1_i" O R 7150 1400 60 
+F20 "out2_i" O R 7150 1500 60 
+F21 "out3_i" O R 7150 1600 60 
+F22 "out4_i" O R 7150 1700 60 
+F23 "out5_i" O R 7150 1800 60 
+F24 "out6_i" O R 7150 1900 60 
+F25 "out7_i" O R 7150 2000 60 
+F26 "out8_i" O R 7150 2100 60 
+F27 "out9_i" O R 7150 2200 60 
 $EndSheet
 Text HLabel 1650 1100 0    60   Input ~ 0
 in0_v
@@ -160,58 +174,6 @@ Text HLabel 1650 4450 0    60   Input ~ 0
 in30_v
 Text HLabel 1650 4550 0    60   Input ~ 0
 in31_v
-Text HLabel 2200 3050 2    60   Input ~ 0
-in16_v
-Text HLabel 2200 3150 2    60   Input ~ 0
-in17_v
-Text HLabel 2200 3250 2    60   Input ~ 0
-in18_v
-Text HLabel 2200 3350 2    60   Input ~ 0
-in19_v
-Text HLabel 2200 3450 2    60   Input ~ 0
-in20_v
-Text HLabel 2200 3550 2    60   Input ~ 0
-in21_v
-Text HLabel 2200 3650 2    60   Input ~ 0
-in22_v
-Text HLabel 2200 3750 2    60   Input ~ 0
-in23_v
-Text HLabel 2200 3850 2    60   Input ~ 0
-in24_v
-Text HLabel 2200 3950 2    60   Input ~ 0
-in25_v
-Text HLabel 2200 4050 2    60   Input ~ 0
-in26_v
-Text HLabel 2200 4150 2    60   Input ~ 0
-in27_v
-Text HLabel 2200 4250 2    60   Input ~ 0
-in28_v
-Text HLabel 2200 4350 2    60   Input ~ 0
-in29_v
-Text HLabel 2200 4450 2    60   Input ~ 0
-in30_v
-Text HLabel 2200 4550 2    60   Input ~ 0
-in31_v
-Text HLabel 3150 3400 0    60   Output ~ 0
-out1_i
-Text HLabel 3150 3500 0    60   Output ~ 0
-out2_i
-Text HLabel 3150 3600 0    60   Output ~ 0
-out3_i
-Text HLabel 3150 3700 0    60   Output ~ 0
-out4_i
-Text HLabel 3150 3800 0    60   Output ~ 0
-out5_i
-Text HLabel 3150 3900 0    60   Output ~ 0
-out6_i
-Text HLabel 3150 4000 0    60   Output ~ 0
-out7_i
-Text HLabel 3150 4100 0    60   Output ~ 0
-out8_i
-Text HLabel 3150 4200 0    60   Output ~ 0
-out9_i
-Text HLabel 3150 3300 0    60   Output ~ 0
-out0_i
 Text HLabel 5700 1100 0    60   Input ~ 0
 in32_v
 Text HLabel 5700 1200 0    60   Input ~ 0
@@ -276,110 +238,6 @@ Text HLabel 5700 4450 0    60   Input ~ 0
 in62_v
 Text HLabel 5700 4550 0    60   Input ~ 0
 in63_v
-Text HLabel 6200 1100 2    60   Input ~ 0
-in32_v
-Text HLabel 6200 1200 2    60   Input ~ 0
-in33_v
-Text HLabel 6200 1300 2    60   Input ~ 0
-in34_v
-Text HLabel 6200 1400 2    60   Input ~ 0
-in35_v
-Text HLabel 6200 1500 2    60   Input ~ 0
-in36_v
-Text HLabel 6200 1600 2    60   Input ~ 0
-in37_v
-Text HLabel 6200 1700 2    60   Input ~ 0
-in38_v
-Text HLabel 6200 1800 2    60   Input ~ 0
-in39_v
-Text HLabel 6200 1900 2    60   Input ~ 0
-in40_v
-Text HLabel 6200 2000 2    60   Input ~ 0
-in41_v
-Text HLabel 6200 2100 2    60   Input ~ 0
-in42_v
-Text HLabel 6200 2200 2    60   Input ~ 0
-in43_v
-Text HLabel 6200 2300 2    60   Input ~ 0
-in44_v
-Text HLabel 6200 2400 2    60   Input ~ 0
-in45_v
-Text HLabel 6200 2500 2    60   Input ~ 0
-in46_v
-Text HLabel 6200 2600 2    60   Input ~ 0
-in47_v
-Text HLabel 6200 3050 2    60   Input ~ 0
-in48_v
-Text HLabel 6200 3150 2    60   Input ~ 0
-in49_v
-Text HLabel 6200 3250 2    60   Input ~ 0
-in50_v
-Text HLabel 6200 3350 2    60   Input ~ 0
-in51_v
-Text HLabel 6200 3450 2    60   Input ~ 0
-in52_v
-Text HLabel 6200 3550 2    60   Input ~ 0
-in53_v
-Text HLabel 6200 3650 2    60   Input ~ 0
-in54_v
-Text HLabel 6200 3750 2    60   Input ~ 0
-in55_v
-Text HLabel 6200 3850 2    60   Input ~ 0
-in56_v
-Text HLabel 6200 3950 2    60   Input ~ 0
-in57_v
-Text HLabel 6200 4050 2    60   Input ~ 0
-in58_v
-Text HLabel 6200 4150 2    60   Input ~ 0
-in59_v
-Text HLabel 6200 4250 2    60   Input ~ 0
-in60_v
-Text HLabel 6200 4350 2    60   Input ~ 0
-in61_v
-Text HLabel 6200 4450 2    60   Input ~ 0
-in62_v
-Text HLabel 6200 4550 2    60   Input ~ 0
-in63_v
-Text HLabel 7150 3300 0    60   Output ~ 0
-out0_i
-Text HLabel 7150 3400 0    60   Output ~ 0
-out1_i
-Text HLabel 7150 3500 0    60   Output ~ 0
-out2_i
-Text HLabel 7150 3600 0    60   Output ~ 0
-out3_i
-Text HLabel 7150 3700 0    60   Output ~ 0
-out4_i
-Text HLabel 7150 3800 0    60   Output ~ 0
-out5_i
-Text HLabel 7150 3900 0    60   Output ~ 0
-out6_i
-Text HLabel 7150 4000 0    60   Output ~ 0
-out7_i
-Text HLabel 7150 4100 0    60   Output ~ 0
-out8_i
-Text HLabel 7150 4200 0    60   Output ~ 0
-out9_i
-Text HLabel 7150 1300 0    60   Output ~ 0
-out0_i
-Text HLabel 7150 1400 0    60   Output ~ 0
-out1_i
-Text HLabel 7150 1500 0    60   Output ~ 0
-out2_i
-Text HLabel 7150 1600 0    60   Output ~ 0
-out3_i
-Text HLabel 7150 1700 0    60   Output ~ 0
-out4_i
-Text HLabel 7150 1800 0    60   Output ~ 0
-out5_i
-Text HLabel 7150 1900 0    60   Output ~ 0
-out6_i
-Text HLabel 7150 2000 0    60   Output ~ 0
-out7_i
-Text HLabel 7150 2100 0    60   Output ~ 0
-out8_i
-Text HLabel 7150 2200 0    60   Output ~ 0
-out9_i
 Text HLabel 3150 5300 0    60   Output ~ 0
 OUT0
 Wire Wire Line
@@ -618,10 +476,10 @@ Connection ~ 4900 6900
 Wire Wire Line
 	7150 4200 7250 4200
 Wire Wire Line
-	7250 2200 7250 7100
+	7250 7100 7250 2200
 Connection ~ 7250 4200
 Wire Wire Line
-	7150 2200 7250 2200
+	7250 2200 7150 2200
 Wire Wire Line
 	7150 2100 7350 2100
 Wire Wire Line
@@ -677,7 +535,7 @@ Wire Wire Line
 Wire Wire Line
 	8150 3300 7150 3300
 Wire Wire Line
-	7250 7100 3150 7100
+	3150 7100 7250 7100
 Wire Wire Line
 	7350 6900 3150 6900
 Connection ~ 7350 4100
@@ -698,4 +556,68 @@ Connection ~ 3500 5500
 Wire Wire Line
 	8150 5300 3150 5300
 Connection ~ 8150 3300
+$Sheet
+S 2200 3000 950  1600
+U 5C6CB74E
+F0 "inputs 16-31" 60
+F1 "inputs16-31.sch" 60
+F2 "out0_i" O R 3150 3300 60 
+F3 "out1_i" O R 3150 3400 60 
+F4 "out2_i" O R 3150 3500 60 
+F5 "out3_i" O R 3150 3600 60 
+F6 "out4_i" O R 3150 3700 60 
+F7 "out5_i" O R 3150 3800 60 
+F8 "out6_i" O R 3150 3900 60 
+F9 "out7_i" O R 3150 4000 60 
+F10 "out8_i" O R 3150 4100 60 
+F11 "out9_i" O R 3150 4200 60 
+F12 "in16_v" I L 2200 3050 60 
+F13 "in17_v" I L 2200 3150 60 
+F14 "in18_v" I L 2200 3250 60 
+F15 "in19_v" I L 2200 3350 60 
+F16 "in20_v" I L 2200 3450 60 
+F17 "in21_v" I L 2200 3550 60 
+F18 "in22_v" I L 2200 3650 60 
+F19 "in23_v" I L 2200 3750 60 
+F20 "in24_v" I L 2200 3850 60 
+F21 "in25_v" I L 2200 3950 60 
+F22 "in26_v" I L 2200 4050 60 
+F23 "in27_v" I L 2200 4150 60 
+F24 "in28_v" I L 2200 4250 60 
+F25 "in29_v" I L 2200 4350 60 
+F26 "in30_v" I L 2200 4450 60 
+F27 "in31_v" I L 2200 4550 60 
+$EndSheet
+$Sheet
+S 6200 3000 950  1600
+U 5C6CB756
+F0 "inputs 48-63" 60
+F1 "inputs48-63.sch" 60
+F2 "in48_v" I L 6200 3050 60 
+F3 "in49_v" I L 6200 3150 60 
+F4 "in50_v" I L 6200 3250 60 
+F5 "in51_v" I L 6200 3350 60 
+F6 "in52_v" I L 6200 3450 60 
+F7 "in53_v" I L 6200 3550 60 
+F8 "in54_v" I L 6200 3650 60 
+F9 "in55_v" I L 6200 3750 60 
+F10 "in56_v" I L 6200 3850 60 
+F11 "in57_v" I L 6200 3950 60 
+F12 "in58_v" I L 6200 4050 60 
+F13 "in59_v" I L 6200 4150 60 
+F14 "in60_v" I L 6200 4250 60 
+F15 "in61_v" I L 6200 4350 60 
+F16 "in62_v" I L 6200 4450 60 
+F17 "in63_v" I L 6200 4550 60 
+F18 "out0_i" O R 7150 3300 60 
+F19 "out1_i" O R 7150 3400 60 
+F20 "out2_i" O R 7150 3500 60 
+F21 "out3_i" O R 7150 3600 60 
+F22 "out4_i" O R 7150 3700 60 
+F23 "out5_i" O R 7150 3800 60 
+F24 "out6_i" O R 7150 3900 60 
+F25 "out7_i" O R 7150 4000 60 
+F26 "out8_i" O R 7150 4100 60 
+F27 "out9_i" O R 7150 4200 60 
+$EndSheet
 $EndSCHEMATC

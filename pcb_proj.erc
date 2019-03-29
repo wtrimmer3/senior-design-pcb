@@ -1,0 +1,273 @@
+ERC report (Tuesday, March 26, 2019 'PMt' 03:31:34 PM, Encoding UTF8 )
+
+***** Sheet /
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,68.58 mm): Pin 39 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,66.04 mm): Pin 38 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,63.50 mm): Pin 37 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,60.96 mm): Pin 36 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,58.42 mm): Pin 35 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,55.88 mm): Pin 34 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,53.34 mm): Pin 33 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,132.08 mm): Pin 32 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,129.54 mm): Pin 31 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,124.46 mm): Pin 29 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,121.92 mm): Pin 28 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,119.38 mm): Pin 27 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,116.84 mm): Pin 26 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,114.30 mm): Pin 25 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,111.76 mm): Pin 24 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,109.22 mm): Pin 23 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,106.68 mm): Pin 22 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,104.14 mm): Pin 21 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,99.06 mm): Pin 19 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,96.52 mm): Pin 18 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,132.08 mm): Pin 64 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,129.54 mm): Pin 63 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,127.00 mm): Pin 62 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,124.46 mm): Pin 61 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,119.38 mm): Pin 59 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,116.84 mm): Pin 58 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,114.30 mm): Pin 57 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,111.76 mm): Pin 56 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,109.22 mm): Pin 55 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,106.68 mm): Pin 54 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,104.14 mm): Pin 53 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,101.60 mm): Pin 52 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,99.06 mm): Pin 51 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,93.98 mm): Pin 49 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,91.44 mm): Pin 48 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,88.90 mm): Pin 47 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,86.36 mm): Pin 46 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,83.82 mm): Pin 45 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,81.28 mm): Pin 44 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,78.74 mm): Pin 43 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,76.20 mm): Pin 42 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,73.66 mm): Pin 41 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,93.98 mm): Pin 17 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,121.92 mm): Pin 60 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,96.52 mm): Pin 50 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (63.50 mm,71.12 mm): Pin 40 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,127.00 mm): Pin 30 (Passive) of component J1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (50.80 mm,101.60 mm): Pin 20 (Passive) of component J1 is unconnected.
+
+***** Sheet /op_amps/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (219.71 mm,110.49 mm): Pin 1 (Power input) of component #PWR018 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (100.33 mm,127.00 mm): Pin 2 (Power input) of component U6 is not driven (Net 62).
+
+***** Sheet /resistor_network/
+
+***** Sheet /resistor_network/inputs 0-15/
+
+***** Sheet /resistor_network/inputs 16-31/
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (135.89 mm,151.13 mm): Hierarchical label out3_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (154.94 mm,151.13 mm): Hierarchical label out4_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (173.99 mm,151.13 mm): Hierarchical label out5_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (193.04 mm,151.13 mm): Hierarchical label out6_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (212.09 mm,151.13 mm): Hierarchical label out7_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (231.14 mm,151.13 mm): Hierarchical label out8_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (250.19 mm,151.13 mm): Hierarchical label out9_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,29.21 mm): Hierarchical label in16_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (78.74 mm,151.13 mm): Hierarchical label out0_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,36.83 mm): Hierarchical label in17_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,44.45 mm): Hierarchical label in18_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,52.07 mm): Hierarchical label in19_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,59.69 mm): Hierarchical label in20_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,67.31 mm): Hierarchical label in21_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (97.79 mm,151.13 mm): Hierarchical label out1_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,82.55 mm): Hierarchical label in23_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,90.17 mm): Hierarchical label in24_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,97.79 mm): Hierarchical label in25_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,105.41 mm): Hierarchical label in26_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,113.03 mm): Hierarchical label in27_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,120.65 mm): Hierarchical label in28_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,128.27 mm): Hierarchical label in29_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,135.89 mm): Hierarchical label in30_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,143.51 mm): Hierarchical label in31_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (116.84 mm,151.13 mm): Hierarchical label out2_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (57.15 mm,74.93 mm): Hierarchical label in22_v is not connected to a sheet label.
+
+***** Sheet /resistor_network/inputs 32-47/
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (129.54 mm,152.40 mm): Hierarchical label out3_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (148.59 mm,152.40 mm): Hierarchical label out4_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (167.64 mm,152.40 mm): Hierarchical label out5_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (186.69 mm,152.40 mm): Hierarchical label out6_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (205.74 mm,152.40 mm): Hierarchical label out7_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (224.79 mm,152.40 mm): Hierarchical label out8_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (243.84 mm,152.40 mm): Hierarchical label out9_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,30.48 mm): Hierarchical label in32_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (72.39 mm,152.40 mm): Hierarchical label out0_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,38.10 mm): Hierarchical label in33_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,45.72 mm): Hierarchical label in34_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,53.34 mm): Hierarchical label in35_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,60.96 mm): Hierarchical label in36_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,68.58 mm): Hierarchical label in37_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (91.44 mm,152.40 mm): Hierarchical label out1_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,83.82 mm): Hierarchical label in39_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,91.44 mm): Hierarchical label in40_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,99.06 mm): Hierarchical label in41_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,106.68 mm): Hierarchical label in42_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,114.30 mm): Hierarchical label in43_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,121.92 mm): Hierarchical label in44_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,129.54 mm): Hierarchical label in45_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,137.16 mm): Hierarchical label in46_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,144.78 mm): Hierarchical label in47_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (110.49 mm,152.40 mm): Hierarchical label out2_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (50.80 mm,76.20 mm): Hierarchical label in38_v is not connected to a sheet label.
+
+***** Sheet /resistor_network/inputs 48-63/
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,80.01 mm): Hierarchical label in55_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (127.00 mm,148.59 mm): Hierarchical label out3_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (146.05 mm,148.59 mm): Hierarchical label out4_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (165.10 mm,148.59 mm): Hierarchical label out5_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (184.15 mm,148.59 mm): Hierarchical label out6_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (203.20 mm,148.59 mm): Hierarchical label out7_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (222.25 mm,148.59 mm): Hierarchical label out8_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (241.30 mm,148.59 mm): Hierarchical label out9_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,26.67 mm): Hierarchical label in48_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,34.29 mm): Hierarchical label in49_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (69.85 mm,148.59 mm): Hierarchical label out0_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,41.91 mm): Hierarchical label in50_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,49.53 mm): Hierarchical label in51_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,57.15 mm): Hierarchical label in52_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,64.77 mm): Hierarchical label in53_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (88.90 mm,148.59 mm): Hierarchical label out1_i is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,72.39 mm): Hierarchical label in54_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,87.63 mm): Hierarchical label in56_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,95.25 mm): Hierarchical label in57_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,102.87 mm): Hierarchical label in58_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,110.49 mm): Hierarchical label in59_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,118.11 mm): Hierarchical label in60_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,125.73 mm): Hierarchical label in61_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,133.35 mm): Hierarchical label in62_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (48.26 mm,140.97 mm): Hierarchical label in63_v is not connected to a sheet label.
+ErrType(6): Mismatch between hierarchical labels and pins sheets
+    @ (107.95 mm,148.59 mm): Hierarchical label out2_i is not connected to a sheet label.
+
+ ** ERC messages: 128  Errors 0  Warnings 128

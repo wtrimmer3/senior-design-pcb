@@ -36,7 +36,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 7
+Sheet 5 7
 Title ""
 Date ""
 Rev ""
@@ -78,25 +78,25 @@ Text HLabel 2000 5400 0    60   Input ~ 0
 in46_v
 Text HLabel 2000 5700 0    60   Input ~ 0
 in47_v
-Text HLabel 2850 6000 3    60   Input ~ 0
+Text HLabel 2850 6000 3    60   Output ~ 0
 out0_i
-Text HLabel 3600 6000 3    60   Input ~ 0
+Text HLabel 3600 6000 3    60   Output ~ 0
 out1_i
-Text HLabel 4350 6000 3    60   Input ~ 0
+Text HLabel 4350 6000 3    60   Output ~ 0
 out2_i
-Text HLabel 5100 6000 3    60   Input ~ 0
+Text HLabel 5100 6000 3    60   Output ~ 0
 out3_i
-Text HLabel 5850 6000 3    60   Input ~ 0
+Text HLabel 5850 6000 3    60   Output ~ 0
 out4_i
-Text HLabel 6600 6000 3    60   Input ~ 0
+Text HLabel 6600 6000 3    60   Output ~ 0
 out5_i
-Text HLabel 7350 6000 3    60   Input ~ 0
+Text HLabel 7350 6000 3    60   Output ~ 0
 out6_i
-Text HLabel 8100 6000 3    60   Input ~ 0
+Text HLabel 8100 6000 3    60   Output ~ 0
 out7_i
-Text HLabel 8850 6000 3    60   Input ~ 0
+Text HLabel 8850 6000 3    60   Output ~ 0
 out8_i
-Text HLabel 9600 6000 3    60   Input ~ 0
+Text HLabel 9600 6000 3    60   Output ~ 0
 out9_i
 $Comp
 L R R32_0

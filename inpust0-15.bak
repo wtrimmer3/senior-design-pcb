@@ -78,25 +78,25 @@ Text HLabel 2200 5500 0    60   Input ~ 0
 in14_v
 Text HLabel 2200 5800 0    60   Input ~ 0
 in15_v
-Text HLabel 3050 6100 3    60   Input ~ 0
+Text HLabel 3050 6100 3    60   Output ~ 0
 out0_i
-Text HLabel 3800 6100 3    60   Input ~ 0
+Text HLabel 3800 6100 3    60   Output ~ 0
 out1_i
-Text HLabel 4550 6100 3    60   Input ~ 0
+Text HLabel 4550 6100 3    60   Output ~ 0
 out2_i
-Text HLabel 5300 6100 3    60   Input ~ 0
+Text HLabel 5300 6100 3    60   Output ~ 0
 out3_i
-Text HLabel 6050 6100 3    60   Input ~ 0
+Text HLabel 6050 6100 3    60   Output ~ 0
 out4_i
-Text HLabel 6800 6100 3    60   Input ~ 0
+Text HLabel 6800 6100 3    60   Output ~ 0
 out5_i
-Text HLabel 7550 6100 3    60   Input ~ 0
+Text HLabel 7550 6100 3    60   Output ~ 0
 out6_i
-Text HLabel 8300 6100 3    60   Input ~ 0
+Text HLabel 8300 6100 3    60   Output ~ 0
 out7_i
-Text HLabel 9050 6100 3    60   Input ~ 0
+Text HLabel 9050 6100 3    60   Output ~ 0
 out8_i
-Text HLabel 9800 6100 3    60   Input ~ 0
+Text HLabel 9800 6100 3    60   Output ~ 0
 out9_i
 $Comp
 L R R0_0
