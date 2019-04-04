@@ -1332,7 +1332,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5C9A6BDE)
-    (at 29.21 184.15)
+    (at 29.21 185.42)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5C6B8B87)
@@ -2520,7 +2520,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5C9A6E0F)
-    (at 80.01 143.51)
+    (at 80.01 144.78)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5C6B8B54)
@@ -3312,7 +3312,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5C9A6F85)
-    (at 80.01 186.69)
+    (at 80.01 185.42)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5C6B8BBC)
@@ -24026,7 +24026,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5 (layer F.Cu) (tedit 58CE4E7E) (tstamp 5C9A959C)
-    (at 38.1 179.07)
+    (at 38.1 180.34)
     (descr "5-pin SOT23 package")
     (tags SOT-23-5)
     (path /5C6B8575/5C6B8B29)
@@ -24155,7 +24155,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5 (layer F.Cu) (tedit 58CE4E7E) (tstamp 5C9A95B7)
-    (at 88.9 138.43)
+    (at 88.9 139.7)
     (descr "5-pin SOT23 package")
     (tags SOT-23-5)
     (path /5C6B8575/5C6B8B14)
@@ -24241,7 +24241,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5 (layer F.Cu) (tedit 58CE4E7E) (tstamp 5C9A95C9)
-    (at 88.9 181.61)
+    (at 88.9 180.34)
     (descr "5-pin SOT23 package")
     (tags SOT-23-5)
     (path /5C6B8575/5C6B8B1B)
@@ -24514,7 +24514,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5CA3ACD5)
-    (at 29.21 179.07)
+    (at 29.21 180.34)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5CA2D561)
@@ -24550,7 +24550,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5CA3ACE6)
-    (at 29.21 173.99)
+    (at 29.21 175.26)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5CA2DF02)
@@ -24730,7 +24730,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5CA3AD3B)
-    (at 80.01 138.43)
+    (at 80.01 139.7)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5CA2D882)
@@ -24766,7 +24766,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5CA3AD4C)
-    (at 80.01 133.35)
+    (at 80.01 134.62)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5CA2D903)
@@ -24874,7 +24874,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5CA3AD7F)
-    (at 80.01 181.61)
+    (at 80.01 180.34)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5CA2D78F)
@@ -24910,7 +24910,7 @@
   )
 
   (module Resistors_SMD:R_1206 (layer F.Cu) (tedit 58E0A804) (tstamp 5CA3AD90)
-    (at 80.01 176.53)
+    (at 80.01 175.26)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
     (path /5C6B8575/5CA2DA0E)
